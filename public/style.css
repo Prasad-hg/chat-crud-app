@@ -1,0 +1,22 @@
+body{
+    margin-left: 20px;
+}
+.chat{
+    background-color: lightblue;
+    padding: 20px;
+    
+    border-radius: 12px;
+    display: inline-block;
+    /* text-align: center; */
+
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 12px;
+    padding: 7px;
+    
+}
+button:hover {
+    cursor: crosshair; 
+}
